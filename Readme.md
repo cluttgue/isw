@@ -13,4 +13,4 @@ Desde mi horizonte GNU/Linux posee:
 1. Gran estabilidad
 2. Rapidez en la ejecución del sw
 3. Y un largo etc
-Finalmente podemos ver las comparaciones de distribuciones GNU/Linux en [Sin titulo](http://distrowatch.com/) 
+Finalmente podemos ver las comparaciones de distribuciones GNU/Linux en [DistroWatch](http://distrowatch.com/)   
